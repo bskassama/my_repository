@@ -1,0 +1,25 @@
+body {background-color: azure;
+      color:deeppink;
+   }
+
+h1 {color: green; text-transform: capitalize; text-align: center; background-color: cornsilk}
+h2 {color:brown; text-transform: uppercase; text-decoration: underline}
+p {color:black
+  line-height: 2;
+  word-spacing: 0.1rem;
+}
+
+
+img {
+  float: right;
+  margin-right: 30px;
+}
+
+footer {position: relative;
+	margin-top: -180px; 
+	height: 180px;
+	clear:both;
+    color: black;
+    text-align: center
+        
+}
