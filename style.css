@@ -4,7 +4,7 @@ body {background-color: azure;
 
 h1 {color: green; text-transform: capitalize; text-align: center; background-color: cornsilk}
 h2 {color:brown; text-transform: uppercase; text-decoration: underline}
-p {color:black
+p {color:black;
   line-height: 2;
   word-spacing: 0.1rem;
 }
